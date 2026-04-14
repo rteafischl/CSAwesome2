@@ -1,15 +1,15 @@
 // ==UserScript==
 // @name        Auto scroll to relevant output section
-// @namespace   https://github.com/fischlrock/CSAwesome2
+// @namespace   https://github.com/rteafischl/CSAwesome2
 // @match       https://runestone.academy/ns/books/published/*
 // @icon        https://runestone.academy/runestone/static/favicon.ico
 // @grant       none
 // @version     1.0
 // @author      -
 // @description -
-// @updateURL   https://github.com/fischlrock/CSAwesome2/raw/refs/heads/main/script.user.js
-// @downloadURL https://github.com/fischlrock/CSAwesome2/raw/refs/heads/main/script.user.js
-// @supportURL  https://github.com/fischlrock/CSAwesome2/issues
+// @updateURL   https://github.com/rteafischl/CSAwesome2/raw/refs/heads/main/script.user.js
+// @downloadURL https://github.com/rteafischl/CSAwesome2/raw/refs/heads/main/script.user.js
+// @supportURL  https://github.com/rteafischl/CSAwesome2/issues
 // ==/UserScript==
 
 let debounce = false;
